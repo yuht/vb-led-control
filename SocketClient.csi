@@ -1,0 +1,15 @@
+[History]
+1=#P0#=mb	#P1#=Command2_Click	#P2#=SocketClient/Form1/Command2_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20141212144747	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=Command3_Click	#P2#=SocketClient/Form1/Command3_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20141211150052	#P7#=0	#P8#=1	.
+3=#P0#=mb	#P1#=winsockclient_Connect	#P2#=SocketClient/Form1/winsockclient_Connect	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20141211135830	#P7#=0	#P8#=4	.
+4=#P0#=mb	#P1#=winsockclient_DataArrival	#P2#=SocketClient/Form1/winsockclient_DataArrival	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20141211135637	#P7#=0	#P8#=4	.
+5=#P0#=mb	#P1#=Check2_Click	#P2#=SocketClient/Form1/Check2_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20141211133350	#P7#=0	#P8#=2	.
+6=#P0#=mb	#P1#=Check1_Click	#P2#=SocketClient/Form1/Check1_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20141211133330	#P7#=0	#P8#=42	.
+7=#P0#=mb	#P1#=Winsockclient_Close	#P2#=SocketClient/Form1/Winsockclient_Close	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20141211132608	#P7#=0	#P8#=0	.
+8=#P0#=mb	#P1#=CRC16	#P2#=SocketClient/CRC16_Modules/CRC16	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20141211132454	#P7#=0	#P8#=13	.
+9=#P0#=mb	#P1#=Command_Green_Click	#P2#=SocketClient/Form1/Command_Green_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20141211132136	#P7#=0	#P8#=11	.
+10=#P0#=mb	#P1#=Form_Load	#P2#=SocketClient/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20141211131931	#P7#=0	#P8#=8	.
+11=#P0#=mb	#P1#=Command_close_Click	#P2#=SocketClient/Form1/Command_close_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20141211130044	#P7#=0	#P8#=13	.
+12=#P0#=mb	#P1#=Command_OFF_Click	#P2#=SocketClient/Form1/Command_OFF_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20141211123504	#P7#=0	#P8#=-1	.
+13=#P0#=mb	#P1#=Command_Red_Green_Click	#P2#=SocketClient/Form1/Command_Red_Green_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20141211123158	#P7#=0	#P8#=4	.
+14=#P0#=mb	#P1#=Command_RED_Click	#P2#=SocketClient/Form1/Command_RED_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20141211123046	#P7#=0	#P8#=12	.
